@@ -1,0 +1,180 @@
+{
+  "albums": [
+    {
+      "name": "Lofi Chillhop",
+      "description": "Chilled beats for working, studying and relaxing",
+      "songs": [
+        {
+          "name": "Now",
+          "authors": [
+            "Misha",
+            "Jussi Halme"
+          ],
+          "image": "assets/images/2.jpg",
+          "audio": "assets/audio/Now.mp3"
+        },
+        {
+          "name": "Bliss",
+          "authors": [
+            "Misha",
+            "Jussi Halme"
+          ],
+          "image": "assets/images/2a.jpg",
+          "audio": "assets/audio/Bliss.mp3"
+        },
+        {
+          "name": "Lullaby",
+          "authors": [
+            "Misha",
+            "Jussi Halme"
+          ],
+          "image": "assets/images/2.jpg",
+          "audio": "assets/audio/Lullaby.mp3"
+        }
+      ]
+    },
+     {
+      "name": "Kinship",
+      "description": "Chilled beats for working, studying and relaxing",
+      "songs": [
+        {
+          "name": "travelbag",
+          "authors": [
+            "mommy",
+            "Sleepy Fish"
+          ],
+          "image": "assets/images/1.jpg",
+          "audio": "assets/audio/travelbag.mp3"
+        },
+        {
+          "name": "railway pulse",
+          "authors": [
+            "mommy",
+            "Sleepy Fish"
+          ],
+          "image": "assets/images/1.jpg",
+          "audio": "assets/audio/railway_pulse.mp3"
+        },
+        {
+          "name": "exits",
+          "authors": [
+            "mommy",
+            "Sleepy Fish"
+          ],
+          "image": "assets/images/1.jpg",
+          "audio": "assets/audio/exits.mp3"
+        },
+         {
+          "name": "sozu",
+          "authors": [
+            "mommy",
+            "Sleepy Fish"
+          ],
+          "image": "assets/images/1.jpg",
+          "audio": "assets/audio/sozu.mp3"
+        }
+      ]
+    },
+    {
+      "name": "Chillhop Essentials - Spring 2021",
+      "description": "Chilled beats for working, studying and relaxing",
+      "songs": [
+        {
+          "name": "Traveling",
+          "authors": [
+            "Anbuu"
+          ],
+          "image": "assets/images/3.jpg",
+          "audio": "assets/audio/Traveling.mp3"
+        },
+        {
+          "name": "Meadow",
+          "authors": [
+            "iamalex",
+            "azula",
+            "Dayle"
+          ],
+          "image": "assets/images/3.jpg",
+          "audio": "assets/audio/Meadow.mp3"
+        },
+        {
+          "name": "Mt. Elsewhere",
+          "authors": [
+            "Mama Aiuto"
+          ],
+          "image": "assets/images/3.jpg",
+          "audio": "assets/audio/Mt_Elsewhere.mp3"
+        },
+        {
+          "name": "Peace",
+          "authors": [
+            "chromonicci"
+          ],
+          "image": "assets/images/3.jpg",
+          "audio": "assets/audio/Peace.mp3"
+        },
+        {
+          "name": "Sunshine",
+          "authors": [
+            "HM Surf"
+          ],
+          "image": "assets/images/3.jpg",
+          "audio": "assets/audio/Sunshine.mp3"
+        }
+      ]
+    },
+    {
+      "name": "Mirage Nymano",
+      "description": "Chilled beats for working, studying and relaxing",
+      "songs": [
+        {
+          "name": "Sleepover",
+          "authors": [
+            "Nymano",
+            "JK the Sage"
+          ],
+          "image": "assets/images/4.jpg",
+          "audio": "assets/audio/Sleepover.mp3"
+        },
+        {
+          "name": "Mirage",
+          "authors": [
+            "Nymano",
+            "j'san"
+          ],
+          "image": "assets/images/4.jpg",
+          "audio": "assets/audio/Mirage.mp3"
+        },
+        {
+          "name": "Train Ride",
+          "authors": [
+            "Nymano",
+            "Philanthrope"
+          ],
+          "image": "assets/images/4.jpg",
+          "audio": "assets/audio/Train_Ride.mp3"
+        },
+        {
+          "name": "False Hope",
+          "authors": [
+            "Nymano",
+            "Pandrezz"
+          ],
+          "image": "assets/images/4.jpg",
+          "audio": "assets/audio/False_Hope.mp3"
+        },
+        {
+          "name": "Distance",
+          "authors": [
+            "Nymano",
+            "Ouska",
+            "Anetta",
+            "Morozova"
+          ],
+          "image": "assets/images/4.jpg",
+          "audio": "assets/audio/Distance.mp3"
+        }
+      ]
+    }
+  ]
+}
